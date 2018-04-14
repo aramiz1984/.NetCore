@@ -1,2 +1,2 @@
-# Net-Core
+# Net .Core
 All about .net Core
